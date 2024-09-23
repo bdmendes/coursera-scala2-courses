@@ -5,7 +5,10 @@
 hs_err_pid*
 
 # IDE files
-.idea
+**/.idea
+**/.vscode
+**/.metals
+**/.scala-build
 
 # Build artifacts
 **/target
